@@ -1,5 +1,3 @@
-
-
 <!doctype html>
 <html lang="zh-CN">
 <head>
@@ -1348,6 +1346,7 @@
         <li><span>${target[1]}</span><strong>${target[0]}</strong></li>
       `).join("");
     }
+
 
     renderStats();
     renderFeatured();
